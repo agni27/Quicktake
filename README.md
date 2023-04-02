@@ -1,7 +1,4 @@
-Some Screenshots of the App:
-[url=https://postimg.cc/47W1V8Bd][img]https://i.postimg.cc/47W1V8Bd/Screenshot-2023-04-02-235536.png[/img][/url]
-[url=https://postimg.cc/dZDjB8x9][img]https://i.postimg.cc/dZDjB8x9/Screenshot-2023-04-02-235705.png[/img][/url]
-[url=https://postimg.cc/YjSRMHCm][img]https://i.postimg.cc/YjSRMHCm/Screenshot-2023-04-02-235754.png[/img][/url]
+
 
 
 # Getting Started with Create React App
